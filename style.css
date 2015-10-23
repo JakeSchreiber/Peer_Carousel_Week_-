@@ -1,0 +1,28 @@
+div {
+    border: 5px solid #3f5d9f;
+}
+
+.main {
+
+}
+
+.index-point {
+    width: 10px;
+    height: 10px;
+    background-color: #3f5d9f;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 0 5px;
+
+}
+
+.index-point-active {
+    background-color: #5882df;
+}
+
+.nav-button {
+    width: 100px;
+    text-align : center;
+    display: inline-block;
+
+}
